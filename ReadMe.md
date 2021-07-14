@@ -4,6 +4,8 @@
 This is a simple calculator created with tkinter that can do basic arithmetic calculations and is essentially the same as a regular calculator.
 </p>
 
+<br>
+
 ![pic](https://imgur.com/Cmd3aKX.png)
 
 <br>
