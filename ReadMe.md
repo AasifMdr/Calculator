@@ -6,6 +6,8 @@ This is a simple calculator created with tkinter that can do basic arithmetic ca
 
 ![pic](https://imgur.com/2kLFBFm.png)
 
+<br>
+
 ## Characteristics:
 <p>
 It has the ability to execute operations such as addition, subtraction, multiplication, division, exponential, and so on. Not only that, but it can also do decimal and floor division calculations, demonstrating the app's versatility. The Mod function is supplied exclusively for the purpose of calculating the remainder of dividing one integer by another
