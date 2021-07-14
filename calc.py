@@ -5,7 +5,7 @@ root = Tk()
 root.configure(bg='black')
 
 # Title of the project
-root.title('                                                                   Calculator')
+root.title('Calculator')
 root.iconbitmap('E:/calc.ico')
 
 e = Entry(root,width=25,borderwidth=5,font=('courier', 30),fg='white',bg='black')
@@ -28,10 +28,10 @@ def button_equal():
 
 
 def clear_but():
-    e.delete(0, END)  # clears the entry in the screen
+    e.delete(0, END)  # clears entry in the screen
 
 
-# Defining the buttons
+# Defining and arranging the buttons in the screen
 
 button_1 = Button(root,text='1',command=lambda: button_click(1),font=('courier', 30),fg='white',bg='black',activebackground='black',activeforeground='white',bd=0)
 button_1.grid(row=3, column=0, ipadx=40, ipady=20)
